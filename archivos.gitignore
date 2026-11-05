@@ -1,0 +1,4 @@
+__pycache__/
+*.db
+secretos.txt
+secretos2.txt
