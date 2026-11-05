@@ -1,4 +1,3 @@
-nombre = "Milagros";
-carrera = "Enfermeria";
-print(f"Hola {nombre}. El amor de mi vida estudia {carrera}");
-print("Cambio para el commit")
+nombre = "Wagner";
+carrera = "Contabilidad";
+print("Nombre: ", nombre, "Carrera: ", carrera)
