@@ -1,4 +1,4 @@
 nombre = "Milagros";
-carrera = "Diseño y Desarrollo de Software";
-print(f"Hola {nombre}. Estudias {carrera}");
+carrera = "Enfermeria";
+print(f"Hola {nombre}. El amor de mi vida estudia {carrera}");
 print("Cambio para el commit")
